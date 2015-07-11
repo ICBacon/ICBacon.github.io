@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-_site
 .sass-cache
-=======
 # Numerous always-ignore extensions
 *.diff
 *.err
@@ -21,4 +18,3 @@ Thumbs.db
 
 # Static site output
 _site
->>>>>>> f5f4bccdfefa1783afbe30038c439be3bc49c990
