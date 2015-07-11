@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title: Your awesome title
 email: your-email@domain.com
@@ -12,3 +13,7 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+=======
+# Name of the site
+name: Jekyll Builerplate
+>>>>>>> f5f4bccdfefa1783afbe30038c439be3bc49c990

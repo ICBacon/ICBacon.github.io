@@ -1,2 +1,24 @@
+<<<<<<< HEAD
 _site
 .sass-cache
+=======
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+
+# OS or Editor folders
+.DS_Store
+Thumbs.db
+.cache
+
+# Static site output
+_site
+>>>>>>> f5f4bccdfefa1783afbe30038c439be3bc49c990
