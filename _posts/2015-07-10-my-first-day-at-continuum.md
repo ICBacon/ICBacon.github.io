@@ -32,3 +32,7 @@ title: Installing Miniconda3 for a Mac OS X
   * Finally, the user will be prompted twice to confirm the location of where Miniconda3 will be installed or if the user has a different preference for the location.
   
 * *Congrats! Miniconda3 has now been installed on the Mac OS X system!*
+
+## My roadmap to this post
+
+{% gist ICBacon/7f170e0d7cd4061b9f16 %}
