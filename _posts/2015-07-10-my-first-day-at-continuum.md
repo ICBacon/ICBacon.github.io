@@ -12,7 +12,7 @@ title: Installing Miniconda3 for a Mac OS X
   * To begin, click on the link below which will direct you to the Miniconda installation packages.
   
     * [Miniconda Installer](http://conda.pydata.org/miniconda.html)
-    
+    *
   * Once there, download the 64-bit (bash installer) for Python 3.4 in the Mac OS X section.
   * There may be a warning that could pop up about the file downloaded being a potential hazard for the computer and will prompt you to either continue or cancel the file. If you do not have this pop up, then disregard this step and continue.
   * In opening the file that was just downloaded, it will be opened in a text editor since it is written as a shell script file.
