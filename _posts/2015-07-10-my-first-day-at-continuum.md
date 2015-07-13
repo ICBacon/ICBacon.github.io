@@ -24,11 +24,11 @@ title: Installing Miniconda3 for a Mac OS X
   * Since the file was downloaded, it'll be located in the downloads folder from the main directory.
   * Type *cd Downloads* to go into that directory.
   * To run a non-executable .sh-script in the terminal, type *sh myscript*
-   
+
    * [How to run a .sh-script in a Mac terminal](http://stackoverflow.com/questions/733824/how-to-run-a-sh-script-in-an-unix-console-mac-terminal)
-  
+
   * The user will then be prompted "In order to continue the installation process, please review the license agreement. Please, press ENTER to continue". After reading, press Enter.
-  * The user will then be prompted "Do you approve the license terms? [yes|no]". Type yes to proceed with installation or no to end.
+  * The user will then be prompted "Do you approve the license terms? (Yes,No)". Type yes to proceed with installation or no to end.
   * Finally, the user will be prompted twice to confirm the location of where Miniconda3 will be installed or if the user has a different preference for the location.
   
 * *Congrats! Miniconda3 has now been installed on the Mac OS X system!*
