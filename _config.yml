@@ -10,9 +10,9 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 ## Social media accounts
 
-disqus_username: tonyfast
+disqus_username: icbacon
 
-twitter_username: docfast
+twitter_username: @IanCBacon
 github:
   username: tonyfast
   repository: icbacon.github.io
