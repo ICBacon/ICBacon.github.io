@@ -1,6 +1,6 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Intern at Continuum
+email: ibacon@continuum.io
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -12,9 +12,9 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 disqus_username: icbacon
 
-twitter_username: @IanCBacon
+twitter_username: IanCBacon
 github:
-  username: tonyfast
+  username: icbacon
   repository: icbacon.github.io
 
 # Build settings
