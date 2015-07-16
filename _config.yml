@@ -1,11 +1,9 @@
 # Site settings
-title: Intern at Continuum
+title: Becoming [ICBacon](github.com/icbacon)
 email: ibacon@continuum.io
 description: > # this means to ignore newlines until "baseurl:"
-  Interning at Continuum under the direction of Tony Fast 
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A story about my internship in reproducible science at [Continuum Analytics](http://continuum.io/)
+  using [Anaconda](https://anaconda.org/).
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://icbacon.github.io # the base hostname & protocol for your site
 
