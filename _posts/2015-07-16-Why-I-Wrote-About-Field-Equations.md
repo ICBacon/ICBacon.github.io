@@ -8,4 +8,4 @@ I created a Jupyter notebook that [{{site.data.mynotebooks[0].description}}]({{s
 
 ## References
 
-* [StackOverflow]({{site.date.refs.so}})
+* [StackOverflow]({{site.data.refs.so}})
