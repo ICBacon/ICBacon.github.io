@@ -5,5 +5,5 @@ permalink: /notebooks/
 ---
 
 {% for notebook in site.data.mynotebooks %}
-* {{notebook}}
+* {{notebook | jsonify }}
 {% endfor %}
