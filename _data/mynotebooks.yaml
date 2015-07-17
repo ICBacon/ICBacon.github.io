@@ -2,3 +2,5 @@
   description: Deriving a Field in Mathematics
 - url: http://nbviewer.ipython.org/gist/ICBacon/a86b9bb1af0eb3f5511b
   description: Different Ways to Import YAML Into Python
+- url: https://raw.githubusercontent.com/ICBacon/icbacon.github.io/master/notebook.md
+  description: Accessing Old Gists Using the Same Browser
